@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Gen Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -21,26 +21,24 @@ status:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- 
+#- 
+#- 
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - MS in Population and Quantitative Health Science
+#    institution: Case Western Reserved University
+#    year: 2021~2022
+#  - Bacholar in Statistical and applied mathematical Department
+#    institution: Shenzhen University
+#    year: 2015~2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,6 +49,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
