@@ -6,7 +6,7 @@ title: Gen Li
 superuser: true
 
 # Role/position
-role: ''
+role: MS student in CWRU
 
 # Status emoji
 # status:
@@ -21,9 +21,9 @@ organizations:
 bio: I'm on MS program of biostatistics. My research area is bioinformatics.
 
 interests:
-- Statistics and Mathematics
-- Video games and Table games
-- Sports and Fitness
+- Statistics and Applied Mathematics
+- R programming
+- Genome-Wide Association Studies
 
 education:
   
