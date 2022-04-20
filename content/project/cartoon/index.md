@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
+title: Statistical Method
 summary: Write about your project here...
 tags:
-  - CV
+  - stat
 date: 2022-01-01
 external_link: http://github.com
 ---

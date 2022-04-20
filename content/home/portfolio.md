@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Statistical Method
+      tag: stat
+    - name: R programing
+      tag: R
+    - name: GWAS
+      tag: GWAS
 
 design:
   columns: '1'
