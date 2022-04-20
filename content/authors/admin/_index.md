@@ -9,29 +9,30 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: 
+# status:
+#  icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Case Western Reserved University
+  url: "https://case.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm on MS program of biostatistics. My research area is bioinformatics.
 
-#interests:
-#- Statistics and Mathematics
-#- Video games and Table games
-#- Sports and Fitness
+interests:
+- Statistics and Mathematics
+- Video games and Table games
+- Sports and Fitness
 
-#education:
-#  - MS in Population and Quantitative Health Science
-#    institution: Case Western Reserved University
-#    year: 2021~2022
-#  - Bacholar in Statistical and applied mathematical Department
-#    institution: Shenzhen University
-#    year: 2015~2019
+education:
+  
+  - courses: MS in Population and Quantitative Health Science
+    institution:  Case Western Reserved University
+    year: 2022
+  - courses: Bacholar in Statistical and applied mathematical Department
+    institution:  Shenzhen University
+    year: 2019
 
 
 # Social/Academic Networking
@@ -40,28 +41,28 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Gen2021CWRU
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gxl352@case.edu' # For a direct email link, use "mailto:test@example.org".
 
 
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Gen2021CWRU
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: D:\repository\Gen-s-reposi-1\content\authors\admin\CV.jpg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gen Li is a master degree student in Case Western Reserved University. He's in Dr. Xiaofeng Zhu's lab now and focus on GWAS analysis and relative software programming.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
